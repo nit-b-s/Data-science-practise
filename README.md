@@ -1,3 +1,3 @@
 # Data-science-practise
-This is a repository for data science and data analysis and also for following the IBM data science course on Coursera
-Lets begin!
+This is a repository for data science and data analysis and to practise some procedures, tools and applications of Data Science.
+Lets begin! :)
